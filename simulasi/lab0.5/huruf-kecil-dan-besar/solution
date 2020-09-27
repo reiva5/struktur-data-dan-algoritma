@@ -1,0 +1,1 @@
+cd src/ && javac HurufKecilDanBesar.java && java HurufKecilDanBesar && cd ..

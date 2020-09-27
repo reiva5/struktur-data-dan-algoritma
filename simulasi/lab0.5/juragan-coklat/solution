@@ -1,0 +1,1 @@
+cd src/ && javac JuraganCoklat.java && java JuraganCoklat && cd ..

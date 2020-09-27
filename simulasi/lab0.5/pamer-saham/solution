@@ -1,0 +1,1 @@
+cd src/ && javac PamerSaham.java && java PamerSaham && cd ..
